@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 20f49ef94f898bd45a805004feddf19c, type: 3}
+  m_Name: Voices_1_Alone
+  m_EditorClassIdentifier: 
+  StoryText: "The strange beings panic and run the other way.\r\n\r\nYou are left
+    alone, you keep walking searching for warmth until you finally collapse.\r\n\r\nIn
+    your last moment of consciousness all you could think was \"I'm cold...\"\r\n\r\n1.
+    Restart"
+  availableStates:
+  - {fileID: 11400000, guid: 847bbf2e8a8f9834889b90a0a8593a03, type: 2}

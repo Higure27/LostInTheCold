@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 20f49ef94f898bd45a805004feddf19c, type: 3}
+  m_Name: Start_1_Fire
+  m_EditorClassIdentifier: 
+  StoryText: "You reach the source of light, it seem to be a human village which was
+    set on fire.\r\n\r\nAs you get closer a wretched smell reaches your nostrils.\r\n\r\nYou
+    are still not close enough to get warm, but you can see multiple humans, coming
+    from the village, walking towards you.\r\n\r\n1. Go towards the humans and village\r\n2.
+    Run the other way"
+  availableStates:
+  - {fileID: 11400000, guid: 4071c9ea84aaea3408d7f2a03ab847e2, type: 2}
+  - {fileID: 11400000, guid: a2b8ee3b84873d745bedcc05943c1cfe, type: 2}

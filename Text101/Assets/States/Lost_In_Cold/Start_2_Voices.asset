@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 20f49ef94f898bd45a805004feddf19c, type: 3}
+  m_Name: Start_2_Voices
+  m_EditorClassIdentifier: 
+  StoryText: "As you go the other way, you reach the source of the voices.\r\n\r\nThese
+    beings are about your size, but they are definitely not your kinds\r\n\r\nIn the
+    place of ones snout and mouth these creatures have a  round blue beak.While they
+    were also white, they were covered in feathers instead of fur. \r\n\r\nThey notice
+    you as you get closer.\r\n\r\n1. Roar\r\n2.Whimper"
+  availableStates:
+  - {fileID: 11400000, guid: 884981809f841014cbdb35e9c46a7fe4, type: 2}
+  - {fileID: 11400000, guid: 16ee9eddf58d9c1449e83fc221734986, type: 2}
